@@ -6,5 +6,11 @@ This repository serves as a collection of learning and practice materials used o
 - ***Flask***: web application / API development framework
 - ***Git***: open source distributed version control
 
-#### Technologies which Lie Ahead:
-- ...
+#### TODO:
+- ***Automation***
+- ***DevOps Tools***
+- ***Email Delivery***
+- ***Machine/Deep Learning***
+- ***Game Development***
+- ***Job Scheduling***
+- ***Web Crawling***
